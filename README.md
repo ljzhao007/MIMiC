@@ -1,2 +1,2 @@
 # MIMiC
- Melt inclusion modifications correction (MIMiC).
+ Melt inclusion modification corrections (MIMiC).
